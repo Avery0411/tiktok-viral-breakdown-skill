@@ -1,0 +1,15 @@
+{
+  "demo": true,
+  "product": { "brand": "待确认", "name": "唇部彩妆（仅口播推测）", "type": "待确认", "source": "示例口播没有品牌，不能补品牌" },
+  "segments": [
+    { "start": 0, "end": 4, "action": "", "visualRefs": [], "quotes": [{ "ref": "transcript:0", "text": "I want color without the constant touch-ups.", "translation": "我想要显色，又不想一直补妆。" }], "role": "痛点型Hook：把颜色与补妆成本的矛盾前置。" },
+    { "start": 4, "end": 8, "action": "", "visualRefs": [], "quotes": [{ "ref": "transcript:1", "text": "Here is how I apply it.", "translation": "这是我的使用方法。" }], "role": "引出操作期待；没有画面，不能确认实际展示了什么。" }
+  ],
+  "hook": "00:00–00:04用反复补妆的困扰建立共鸣，属于痛点型Hook。",
+  "pain": "希望保持颜色，同时减少补妆频率。",
+  "visual": "未提供视频或帧，无法确认景别、动作、音乐和卡点。",
+  "trust": "口播引出使用方法，但材料没有结果或测试，信任证据不足。",
+  "structure": "补妆痛点→操作预告。只有口播，不推断真实转化或留存。",
+  "formula": "具体痛点前置＋解决方法预告。",
+  "caveats": ["本示例用于离线测试，不是对某条TikTok视频的评价。"]
+}
