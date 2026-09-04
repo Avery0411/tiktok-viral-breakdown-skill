@@ -1,0 +1,15 @@
+{
+  "name": "tiktok-viral-breakdown-skill",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Evidence-first TikTok creative breakdown skill powered by mcp-video-analyzer",
+  "license": "MIT",
+  "engines": { "node": ">=22.12.0" },
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "prepare-evidence": "node skills/tiktok-viral-breakdown/scripts/cli.mjs prepare",
+    "render-report": "node skills/tiktok-viral-breakdown/scripts/cli.mjs render"
+  },
+  "dependencies": { "mcp-video-analyzer": "0.10.0" }
+}

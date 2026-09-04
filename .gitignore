@@ -1,0 +1,12 @@
+node_modules/
+runs/
+.env
+.env.*
+!.env.example
+*.log
+*.mp4
+*.mov
+*.webm
+cookies*.txt
+*credentials*
+.DS_Store
