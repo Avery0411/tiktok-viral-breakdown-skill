@@ -1,0 +1,4 @@
+interface:
+  display_name: "TikTok 爆款结构拆解"
+  short_description: "从视频、脚本与截图还原时间轴，拆解Hook、痛点、信任与爆点公式"
+  default_prompt: "使用 $tiktok-viral-breakdown 拆解这条视频，保留精确口播、可核实画面和互动数据，按标准模板输出。"
